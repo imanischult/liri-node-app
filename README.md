@@ -22,8 +22,6 @@
 
 * The command ```node liri.js movie-this [move name]``` will log the following information to the terminal: 
 
-
-This will output the following information to your terminal/bash window:
   * Title of the movie.
   * Year the movie came out.
   * IMDB Rating of the movie.
