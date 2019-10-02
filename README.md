@@ -5,7 +5,7 @@
     line node app that takes in parameters and gives back data.
     
 #Commands
-* The command ```node liri concert this [artist name]``` will log the following information to the terminal:
+* The command ```node liri concert-this [artist name]``` will log the following information to the terminal:
 
 * Name of the venue
 * Venue location
