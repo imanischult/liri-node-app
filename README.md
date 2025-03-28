@@ -1,7 +1,7 @@
 # liri-node-app
 * Welcome to my LIRI app! 
 
-* LIRI is similar iPhone's SIRI, but a little simpler. LIRI is a Language Interpretation and Recognition Interface. LIRI is a command 
+* LIRI is similar iPhone's SIRI, but a little simpler. It stands for Language Interpretation and Recognition Interface: a simple command 
     line node app that takes in parameters and gives back data.
     
 #Commands
